@@ -1,7 +1,7 @@
-# Product Tracker
+# ICT Learning
 Source code is placed into private repo. Join community to get source code. 
-View details from [Release notes](https://github.com/Sakib-Rahman-Bangladesh/product-tracker/releases)
+View details from [Release notes](https://github.com/Sakib-Rahman-Bangladesh/ict-learning/releases)
 
 ## Privacy Policy ##
-[View](https://github.com/Sakib-Rahman-Bangladesh/product-tracker/blob/master/privacy_policy.md) - not ready
+[View](https://github.com/Sakib-Rahman-Bangladesh/ict-learning/blob/master/privacy_policy.md) - not ready
 
