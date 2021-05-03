@@ -62,7 +62,7 @@ echo
 ## Default: Commit skipped|forgotten
 
 ## obstacle no: GAMENAME
-git commit -m "git tag -d 1"
+git commit -m "git push --delete origin tagname"
 
 ############
 # Step: 05 #
