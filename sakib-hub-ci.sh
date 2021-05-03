@@ -62,7 +62,7 @@ echo
 ## Default: Commit skipped|forgotten
 
 ## obstacle no: GAMENAME
-git commit -m "cleanup"
+git commit -m "git tag -d 1"
 
 ############
 # Step: 05 #
